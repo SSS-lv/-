@@ -143,10 +143,6 @@ draw_data(deaths,'死亡病例数','Black')
 
 由上图可以看到，死亡病例趋势与确诊病例大致相同
 
-数据来源：
-[COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
-
-
 
 
 可视化练习数据
