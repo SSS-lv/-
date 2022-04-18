@@ -111,6 +111,7 @@ deaths=resample(deaths,'W')
 draw_data(confirmed,'确诊病例数','Red')
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210514160639575.gif)
+![0111](https://user-images.githubusercontent.com/61958275/163832310-5c3a640f-2921-4d2b-ae03-14aa1593db49.gif)
 
 >这是一个动态的图，可以看到每个时期的变化，这里我给出图片，详细可以实现代码观测
 
