@@ -1,7 +1,6 @@
 # 第五小组题目讲解
 # 全球疫情形势动态地图展示
-
-@[toc]
+[toc]
 # fetch_data函数
 
 ```livecodeserver
