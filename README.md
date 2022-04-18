@@ -126,8 +126,9 @@ draw_data(confirmed,'确诊病例数','Red')
 #治愈病例
 draw_data(recovered,'治愈病例数','Green')
 ```
+![111](https://user-images.githubusercontent.com/61958275/163833156-76d00d4f-de4e-4480-afa3-506453e1c6bc.gif)
 
-![Uploading 111.gif…]()
+
 
 由上图可以看到：
 
