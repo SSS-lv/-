@@ -39,7 +39,7 @@ import plotly.graph_objects as go
 
 ## 全球疫情形势
 分析2020年以来、全球感染人数、死亡人数、治愈人数的情况，由于涉及时间序列数据，因此拟采用plotly库中动态图表的方式进行直观展示。
-元数据格式:
+源数据格式:
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/189a6aad208843928938b184475b6807.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAU1NT6L-q,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ## 定义工具函数
