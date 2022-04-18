@@ -110,7 +110,6 @@ deaths=resample(deaths,'W')
 #确诊病例
 draw_data(confirmed,'确诊病例数','Red')
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210514160639575.gif)
 ![0111](https://user-images.githubusercontent.com/61958275/163832310-5c3a640f-2921-4d2b-ae03-14aa1593db49.gif)
 
 >这是一个动态的图，可以看到每个时期的变化，这里我给出图片，详细可以实现代码观测
@@ -127,7 +126,8 @@ draw_data(confirmed,'确诊病例数','Red')
 #治愈病例
 draw_data(recovered,'治愈病例数','Green')
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/202105141608506.gif)
+
+![Uploading 111.gif…]()
 
 由上图可以看到：
 
@@ -141,7 +141,8 @@ draw_data(recovered,'治愈病例数','Green')
 #死亡病例
 draw_data(deaths,'死亡病例数','Black')
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210514161034812.gif)
+
+![333](https://user-images.githubusercontent.com/61958275/163832736-28f4fe7b-ea70-4ddc-bf39-a6d8d395ca75.gif)
 
 由上图可以看到，死亡病例趋势与确诊病例大致相同
 
