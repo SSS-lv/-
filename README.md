@@ -58,6 +58,8 @@ def fetch_data(file):
     result=result.replace('\*','',regex=True)#有些国家名字中有*，去掉国名中的*
     return result
 ```
+![请添加图片描述](https://img-blog.csdnimg.cn/57f20cf1d7e6460fa97d2ab28a6382a6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAU1NT6L-q,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 ### 绘制动态图表
 ```python
 #绘制动态图表
